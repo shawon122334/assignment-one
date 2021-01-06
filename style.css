@@ -1,6 +1,6 @@
 section{
     height: 500px;
-    border:1px solid red;
+    
 
 }
 h1{
@@ -59,20 +59,26 @@ section{
         border-radius: 10px;
         height:80%;
 }
-.work-inq-part{
-    height:150px;
 
+.work-inq{
+    margin:auto;
+    height:300px;
+    width:60%;
+    background-image: url("images/picture6.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:100%;
+    
 
+    
+    
+    
 }
-.inq-part{
-    
-    width:50%;
-    background-image: url("images/picture6.png")
-
-    
-    
-    
+.work-inq h2{
+    padding-top: 90px;
+    text-align: center;
 }
+
 footer{
     text-align: center;
     font-weight: 700;
@@ -80,4 +86,12 @@ footer{
 }
 footer a{
     text-decoration: none;
+}
+.work-inq{
+    background-image: url("images/picture6.png");
+    
+}
+
+.work-inq background-img{
+    width:100%;
 }
