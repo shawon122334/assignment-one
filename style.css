@@ -61,9 +61,23 @@ section{
 }
 .work-inq-part{
     height:150px;
+
+
 }
 .inq-part{
-    margin:10%;
-    background-image: url("images/picture6.png");
     
+    width:50%;
+    background-image: url("images/picture6.png")
+
+    
+    
+    
+}
+footer{
+    text-align: center;
+    font-weight: 700;
+    display:block;
+}
+footer a{
+    text-decoration: none;
 }
